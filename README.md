@@ -16,7 +16,7 @@ This is a simple Shopping Cart application built using Python's `tkinter` librar
 - **Clear Cart**: Clear all items from the cart.
 - **Search Items**: Search for items in the available item list.
 
-** ** GUI Components****
+**GUI Components**
 
 
 
