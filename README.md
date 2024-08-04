@@ -36,3 +36,13 @@ This is a simple Shopping Cart application built using Python's `tkinter` librar
 
 
 ![image](https://github.com/user-attachments/assets/e1ede258-8e91-4997-822a-0dd30331e028)
+
+**Message Box:** Whenever you perform any operation like adding or removing something from the cart a message box appears to indicate that your operation is completed successfully.
+
+
+![image](https://github.com/user-attachments/assets/cf771e92-be0f-46c1-b80a-f71395ad7aca)
+
+
+![image](https://github.com/user-attachments/assets/a4000dc5-0cf6-4357-9b30-10f9199838f3)
+
+
