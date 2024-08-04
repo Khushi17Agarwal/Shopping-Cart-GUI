@@ -17,12 +17,22 @@ This is a simple Shopping Cart application built using Python's `tkinter` librar
 - **Search Items**: Search for items in the available item list.
 
 ** ** GUI Components****
+
+
+
 **Labels:** Display available items, total items in the cart, and other information.
+
+
 ![image](https://github.com/user-attachments/assets/625379d8-34b9-46bc-bf54-38beebbb9f01)
 
 
 **Entry Fields:** Allow users to input item names and quantities.
+
+
 ![image](https://github.com/user-attachments/assets/ed96b66f-6500-4099-b3b1-b202ace6a9c5)
 
+
 **Buttons:** Provide actions like adding to cart, removing from cart, updating quantity, viewing cart, checking out, saving/loading cart, and clearing the cart.
+
+
 ![image](https://github.com/user-attachments/assets/e1ede258-8e91-4997-822a-0dd30331e028)
